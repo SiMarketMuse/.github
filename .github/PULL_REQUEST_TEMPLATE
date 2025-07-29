@@ -1,0 +1,25 @@
+## 📄 Description
+
+<!-- Please add a short description to explain purpose or non evident information. -->
+
+## 🎫 Jira Ticket
+
+<!--
+  Please reference the Jira ticket related to this PR.
+  Omit section if no ticket
+  [MM-](https://siteimprove-wgs.atlassian.net/browse/MM-)
+-->
+
+## ✅ Tests
+
+<!--
+  Please describe the tests you ran to verify your changes. Include any relevant test results.
+  Omit section if no testing steps
+  - [ ] test step
+-->
+
+## 📚 Related Documentation
+
+<!--
+  Omit section if no related documentation
+-->
